@@ -6,6 +6,7 @@ public class PullTest {
 	{
 		System.out.println("New file...");
 		System.out.println("Updating file...");
+		System.out.println(" created in GitHub...");
 	}
 
 }
