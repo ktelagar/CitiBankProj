@@ -1,0 +1,12 @@
+package com.citi.core;
+
+public class PullTest {
+	
+	public void pullTest()
+	{
+		System.out.println("New file...");
+		System.out.println("Updating file...");
+		System.out.println(" created in GitHub...");
+	}
+
+}
